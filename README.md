@@ -1,0 +1,2 @@
+Android studio  creates a WebView (a full-screen web browser component) and loads the Next.js web application into it.
+It is a really cool way to make this type of android app  
